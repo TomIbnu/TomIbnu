@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom Ibnu
-- 👀 I’m interested in Data Science and Bioinformatic
+- 👀 I’m interested in Data Science and Bioinformatics
 - 🌱 I’m currently learning Linux System Administration
 - 📫 you can reach me through LinkedIn (https://www.linkedin.com/in/tomibnu/)
 
